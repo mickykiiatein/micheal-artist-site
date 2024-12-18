@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leila Jane on My New Hugo Site</title>
-    <link>https://example.org/tags/leila-jane/</link>
-    <description>Recent content in Leila Jane on My New Hugo Site</description>
+    <title>Leila Jane on Mícheál Keating / Archive</title>
+    <link>https://mickykiiatein.github.io/micheal-artist-site/tags/leila-jane/</link>
+    <description>Recent content in Leila Jane on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/leila-jane/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mickykiiatein.github.io/micheal-artist-site/tags/leila-jane/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leila Jane - Revolve Evolve</title>
-      <link>https://example.org/production/revolveevolve/</link>
+      <link>https://mickykiiatein.github.io/micheal-artist-site/production/revolveevolve/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/production/revolveevolve/</guid>
+      <guid>https://mickykiiatein.github.io/micheal-artist-site/production/revolveevolve/</guid>
       <description>Production, Mix, Synthesizers, Guitars, Additional Instrumentation (except track 1)&#xA;Hear it on Bandcamp&#xA;EP by Dublin based Alt Pop singer-songwriter Leila Jane</description>
     </item>
   </channel>
