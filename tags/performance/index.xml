@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Performance on Mícheál Keating / Archive</title>
-    <link>https://michealkeating.xyz/tags/performance/</link>
+    <link>http://localhost:1313/tags/performance/</link>
     <description>Recent content in Performance on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://michealkeating.xyz/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quarry, Ballyneety</title>
-      <link>https://michealkeating.xyz/art/quarry/</link>
+      <link>http://localhost:1313/art/quarry/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/art/quarry/</guid>
+      <guid>http://localhost:1313/art/quarry/</guid>
       <description>Sound + Single-Channel Video, Loop, 21mins&#xA;&amp;lsquo;Quarry, Ballyneety&amp;rsquo; is a quiet vocal + electronics performance responding to the deserted extraction site in County Limerick, and the wildlife now flourishing in its man-made habitat (sand martins, jackdaws, buzzards, hares among them). A peregrine falcon even makes two otherworldly interruptions during the recording. The piece was captured using a stereo pair of high-sensitivity mics and a DSLR camera.&#xA;The piece was exhibited as of &amp;lsquo;The Limerick Show&amp;rsquo; at Ormston House, 29th Nov 2024 to 1st Feb 2025.</description>
     </item>
   </channel>

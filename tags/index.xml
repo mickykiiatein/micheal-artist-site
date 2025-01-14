@@ -2,353 +2,353 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mícheál Keating / Archive</title>
-    <link>https://michealkeating.xyz/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://michealkeating.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Landscape</title>
-      <link>https://michealkeating.xyz/tags/landscape/</link>
+      <link>http://localhost:1313/tags/landscape/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/landscape/</guid>
+      <guid>http://localhost:1313/tags/landscape/</guid>
       <description></description>
     </item>
     <item>
       <title>Media Art</title>
-      <link>https://michealkeating.xyz/tags/media-art/</link>
+      <link>http://localhost:1313/tags/media-art/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/media-art/</guid>
+      <guid>http://localhost:1313/tags/media-art/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>https://michealkeating.xyz/tags/performance/</link>
+      <link>http://localhost:1313/tags/performance/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/performance/</guid>
+      <guid>http://localhost:1313/tags/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Photography</title>
-      <link>https://michealkeating.xyz/tags/photography/</link>
+      <link>http://localhost:1313/tags/photography/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/photography/</guid>
+      <guid>http://localhost:1313/tags/photography/</guid>
       <description></description>
     </item>
     <item>
       <title>Sound</title>
-      <link>https://michealkeating.xyz/tags/sound/</link>
+      <link>http://localhost:1313/tags/sound/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/sound/</guid>
+      <guid>http://localhost:1313/tags/sound/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>https://michealkeating.xyz/tags/text/</link>
+      <link>http://localhost:1313/tags/text/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/text/</guid>
+      <guid>http://localhost:1313/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Video</title>
-      <link>https://michealkeating.xyz/tags/video/</link>
+      <link>http://localhost:1313/tags/video/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/video/</guid>
+      <guid>http://localhost:1313/tags/video/</guid>
       <description></description>
     </item>
     <item>
       <title>Mixing</title>
-      <link>https://michealkeating.xyz/tags/mixing/</link>
+      <link>http://localhost:1313/tags/mixing/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/mixing/</guid>
+      <guid>http://localhost:1313/tags/mixing/</guid>
       <description></description>
     </item>
     <item>
       <title>Production</title>
-      <link>https://michealkeating.xyz/tags/production/</link>
+      <link>http://localhost:1313/tags/production/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/production/</guid>
+      <guid>http://localhost:1313/tags/production/</guid>
       <description></description>
     </item>
     <item>
       <title>Recording Artist</title>
-      <link>https://michealkeating.xyz/tags/recording-artist/</link>
+      <link>http://localhost:1313/tags/recording-artist/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/recording-artist/</guid>
+      <guid>http://localhost:1313/tags/recording-artist/</guid>
       <description></description>
     </item>
     <item>
       <title>The Low Field</title>
-      <link>https://michealkeating.xyz/tags/the-low-field/</link>
+      <link>http://localhost:1313/tags/the-low-field/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/the-low-field/</guid>
+      <guid>http://localhost:1313/tags/the-low-field/</guid>
       <description></description>
     </item>
     <item>
       <title>His Father&#39;s Voice</title>
-      <link>https://michealkeating.xyz/tags/his-fathers-voice/</link>
+      <link>http://localhost:1313/tags/his-fathers-voice/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/his-fathers-voice/</guid>
+      <guid>http://localhost:1313/tags/his-fathers-voice/</guid>
       <description></description>
     </item>
     <item>
       <title>BYOL</title>
-      <link>https://michealkeating.xyz/tags/byol/</link>
+      <link>http://localhost:1313/tags/byol/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/byol/</guid>
+      <guid>http://localhost:1313/tags/byol/</guid>
       <description></description>
     </item>
     <item>
       <title>Live Recording</title>
-      <link>https://michealkeating.xyz/tags/live-recording/</link>
+      <link>http://localhost:1313/tags/live-recording/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/live-recording/</guid>
+      <guid>http://localhost:1313/tags/live-recording/</guid>
       <description></description>
     </item>
     <item>
       <title>Piquant</title>
-      <link>https://michealkeating.xyz/tags/piquant/</link>
+      <link>http://localhost:1313/tags/piquant/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/piquant/</guid>
+      <guid>http://localhost:1313/tags/piquant/</guid>
       <description></description>
     </item>
     <item>
       <title>Biennial</title>
-      <link>https://michealkeating.xyz/tags/biennial/</link>
+      <link>http://localhost:1313/tags/biennial/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/biennial/</guid>
+      <guid>http://localhost:1313/tags/biennial/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Media</title>
-      <link>https://michealkeating.xyz/tags/digital-media/</link>
+      <link>http://localhost:1313/tags/digital-media/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/digital-media/</guid>
+      <guid>http://localhost:1313/tags/digital-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Eimear Walshe</title>
-      <link>https://michealkeating.xyz/tags/eimear-walshe/</link>
+      <link>http://localhost:1313/tags/eimear-walshe/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/eimear-walshe/</guid>
+      <guid>http://localhost:1313/tags/eimear-walshe/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Production</title>
-      <link>https://michealkeating.xyz/tags/video-production/</link>
+      <link>http://localhost:1313/tags/video-production/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/video-production/</guid>
+      <guid>http://localhost:1313/tags/video-production/</guid>
       <description></description>
     </item>
     <item>
       <title>Live Performance</title>
-      <link>https://michealkeating.xyz/tags/live-performance/</link>
+      <link>http://localhost:1313/tags/live-performance/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/live-performance/</guid>
+      <guid>http://localhost:1313/tags/live-performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Vocal Ensemble</title>
-      <link>https://michealkeating.xyz/tags/vocal-ensemble/</link>
+      <link>http://localhost:1313/tags/vocal-ensemble/</link>
       <pubDate>Fri, 03 Nov 2023 14:53:54 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/vocal-ensemble/</guid>
+      <guid>http://localhost:1313/tags/vocal-ensemble/</guid>
       <description></description>
     </item>
     <item>
       <title>Voice</title>
-      <link>https://michealkeating.xyz/tags/voice/</link>
+      <link>http://localhost:1313/tags/voice/</link>
       <pubDate>Fri, 03 Nov 2023 14:53:54 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/voice/</guid>
+      <guid>http://localhost:1313/tags/voice/</guid>
       <description></description>
     </item>
     <item>
       <title>Art Tech</title>
-      <link>https://michealkeating.xyz/tags/art-tech/</link>
+      <link>http://localhost:1313/tags/art-tech/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/art-tech/</guid>
+      <guid>http://localhost:1313/tags/art-tech/</guid>
       <description></description>
     </item>
     <item>
       <title>EVA</title>
-      <link>https://michealkeating.xyz/tags/eva/</link>
+      <link>http://localhost:1313/tags/eva/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/eva/</guid>
+      <guid>http://localhost:1313/tags/eva/</guid>
       <description></description>
     </item>
     <item>
       <title>Installation</title>
-      <link>https://michealkeating.xyz/tags/installation/</link>
+      <link>http://localhost:1313/tags/installation/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/installation/</guid>
+      <guid>http://localhost:1313/tags/installation/</guid>
       <description></description>
     </item>
     <item>
       <title>Composition</title>
-      <link>https://michealkeating.xyz/tags/composition/</link>
+      <link>http://localhost:1313/tags/composition/</link>
       <pubDate>Fri, 28 Jul 2023 14:53:44 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/composition/</guid>
+      <guid>http://localhost:1313/tags/composition/</guid>
       <description></description>
     </item>
     <item>
       <title>Improvisation</title>
-      <link>https://michealkeating.xyz/tags/improvisation/</link>
+      <link>http://localhost:1313/tags/improvisation/</link>
       <pubDate>Fri, 28 Jul 2023 14:53:44 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/improvisation/</guid>
+      <guid>http://localhost:1313/tags/improvisation/</guid>
       <description></description>
     </item>
     <item>
       <title>Péist</title>
-      <link>https://michealkeating.xyz/tags/p%C3%A9ist/</link>
+      <link>http://localhost:1313/tags/p%C3%A9ist/</link>
       <pubDate>Fri, 28 Jul 2023 14:53:44 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/p%C3%A9ist/</guid>
+      <guid>http://localhost:1313/tags/p%C3%A9ist/</guid>
       <description></description>
     </item>
     <item>
       <title>Publication</title>
-      <link>https://michealkeating.xyz/tags/publication/</link>
+      <link>http://localhost:1313/tags/publication/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/publication/</guid>
+      <guid>http://localhost:1313/tags/publication/</guid>
       <description></description>
     </item>
     <item>
       <title>Swimmers Jackson</title>
-      <link>https://michealkeating.xyz/tags/swimmers-jackson/</link>
+      <link>http://localhost:1313/tags/swimmers-jackson/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/swimmers-jackson/</guid>
+      <guid>http://localhost:1313/tags/swimmers-jackson/</guid>
       <description></description>
     </item>
     <item>
       <title>Féile Na Gréine</title>
-      <link>https://michealkeating.xyz/tags/f%C3%A9ile-na-gr%C3%A9ine/</link>
+      <link>http://localhost:1313/tags/f%C3%A9ile-na-gr%C3%A9ine/</link>
       <pubDate>Thu, 26 Jan 2023 14:53:25 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/f%C3%A9ile-na-gr%C3%A9ine/</guid>
+      <guid>http://localhost:1313/tags/f%C3%A9ile-na-gr%C3%A9ine/</guid>
       <description></description>
     </item>
     <item>
       <title>Mastering</title>
-      <link>https://michealkeating.xyz/tags/mastering/</link>
+      <link>http://localhost:1313/tags/mastering/</link>
       <pubDate>Thu, 26 Jan 2023 14:53:25 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/mastering/</guid>
+      <guid>http://localhost:1313/tags/mastering/</guid>
       <description></description>
     </item>
     <item>
       <title>Mícheál Keating</title>
-      <link>https://michealkeating.xyz/tags/m%C3%ADche%C3%A1l-keating/</link>
+      <link>http://localhost:1313/tags/m%C3%ADche%C3%A1l-keating/</link>
       <pubDate>Thu, 26 Jan 2023 14:53:25 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/m%C3%ADche%C3%A1l-keating/</guid>
+      <guid>http://localhost:1313/tags/m%C3%ADche%C3%A1l-keating/</guid>
       <description></description>
     </item>
     <item>
       <title>Soundtrack</title>
-      <link>https://michealkeating.xyz/tags/soundtrack/</link>
+      <link>http://localhost:1313/tags/soundtrack/</link>
       <pubDate>Thu, 26 Jan 2023 14:53:25 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/soundtrack/</guid>
+      <guid>http://localhost:1313/tags/soundtrack/</guid>
       <description></description>
     </item>
     <item>
       <title>Leila Jane</title>
-      <link>https://michealkeating.xyz/tags/leila-jane/</link>
+      <link>http://localhost:1313/tags/leila-jane/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/leila-jane/</guid>
+      <guid>http://localhost:1313/tags/leila-jane/</guid>
       <description></description>
     </item>
     <item>
       <title>Fonda</title>
-      <link>https://michealkeating.xyz/tags/fonda/</link>
+      <link>http://localhost:1313/tags/fonda/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/fonda/</guid>
+      <guid>http://localhost:1313/tags/fonda/</guid>
       <description></description>
     </item>
     <item>
       <title>Music Video</title>
-      <link>https://michealkeating.xyz/tags/music-video/</link>
+      <link>http://localhost:1313/tags/music-video/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/music-video/</guid>
+      <guid>http://localhost:1313/tags/music-video/</guid>
       <description></description>
     </item>
     <item>
       <title>Post Punk Podge</title>
-      <link>https://michealkeating.xyz/tags/post-punk-podge/</link>
+      <link>http://localhost:1313/tags/post-punk-podge/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/post-punk-podge/</guid>
+      <guid>http://localhost:1313/tags/post-punk-podge/</guid>
       <description></description>
     </item>
     <item>
       <title>Visual</title>
-      <link>https://michealkeating.xyz/tags/visual/</link>
+      <link>http://localhost:1313/tags/visual/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/visual/</guid>
+      <guid>http://localhost:1313/tags/visual/</guid>
       <description></description>
     </item>
     <item>
       <title>Brendan McInerney</title>
-      <link>https://michealkeating.xyz/tags/brendan-mcinerney/</link>
+      <link>http://localhost:1313/tags/brendan-mcinerney/</link>
       <pubDate>Sun, 10 Oct 2021 14:53:10 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/brendan-mcinerney/</guid>
+      <guid>http://localhost:1313/tags/brendan-mcinerney/</guid>
       <description></description>
     </item>
     <item>
       <title>Hey Rusty</title>
-      <link>https://michealkeating.xyz/tags/hey-rusty/</link>
+      <link>http://localhost:1313/tags/hey-rusty/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/hey-rusty/</guid>
+      <guid>http://localhost:1313/tags/hey-rusty/</guid>
       <description></description>
     </item>
     <item>
       <title>SORBET</title>
-      <link>https://michealkeating.xyz/tags/sorbet/</link>
+      <link>http://localhost:1313/tags/sorbet/</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/sorbet/</guid>
+      <guid>http://localhost:1313/tags/sorbet/</guid>
       <description></description>
     </item>
     <item>
       <title>Mickykiiatein</title>
-      <link>https://michealkeating.xyz/tags/mickykiiatein/</link>
+      <link>http://localhost:1313/tags/mickykiiatein/</link>
       <pubDate>Fri, 04 Jun 2021 14:53:17 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/mickykiiatein/</guid>
+      <guid>http://localhost:1313/tags/mickykiiatein/</guid>
       <description></description>
     </item>
     <item>
       <title>King Pallas</title>
-      <link>https://michealkeating.xyz/tags/king-pallas/</link>
+      <link>http://localhost:1313/tags/king-pallas/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/king-pallas/</guid>
+      <guid>http://localhost:1313/tags/king-pallas/</guid>
       <description></description>
     </item>
     <item>
       <title>Bleeding Heart Pigeons</title>
-      <link>https://michealkeating.xyz/tags/bleeding-heart-pigeons/</link>
+      <link>http://localhost:1313/tags/bleeding-heart-pigeons/</link>
       <pubDate>Fri, 22 May 2020 13:33:51 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/bleeding-heart-pigeons/</guid>
+      <guid>http://localhost:1313/tags/bleeding-heart-pigeons/</guid>
       <description></description>
     </item>
     <item>
       <title>Score</title>
-      <link>https://michealkeating.xyz/tags/score/</link>
+      <link>http://localhost:1313/tags/score/</link>
       <pubDate>Sun, 17 May 2020 14:54:06 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/score/</guid>
+      <guid>http://localhost:1313/tags/score/</guid>
       <description></description>
     </item>
     <item>
       <title>Casavettes</title>
-      <link>https://michealkeating.xyz/tags/casavettes/</link>
+      <link>http://localhost:1313/tags/casavettes/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/casavettes/</guid>
+      <guid>http://localhost:1313/tags/casavettes/</guid>
       <description></description>
     </item>
     <item>
       <title>Remix</title>
-      <link>https://michealkeating.xyz/tags/remix/</link>
+      <link>http://localhost:1313/tags/remix/</link>
       <pubDate>Tue, 15 Oct 2019 14:52:58 +0100</pubDate>
-      <guid>https://michealkeating.xyz/tags/remix/</guid>
+      <guid>http://localhost:1313/tags/remix/</guid>
       <description></description>
     </item>
     <item>
       <title>The Mary Wallopers</title>
-      <link>https://michealkeating.xyz/tags/the-mary-wallopers/</link>
+      <link>http://localhost:1313/tags/the-mary-wallopers/</link>
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/tags/the-mary-wallopers/</guid>
+      <guid>http://localhost:1313/tags/the-mary-wallopers/</guid>
       <description></description>
     </item>
   </channel>

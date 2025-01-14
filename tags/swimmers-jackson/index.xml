@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swimmers Jackson on Mícheál Keating / Archive</title>
-    <link>https://michealkeating.xyz/tags/swimmers-jackson/</link>
+    <link>http://localhost:1313/tags/swimmers-jackson/</link>
     <description>Recent content in Swimmers Jackson on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://michealkeating.xyz/tags/swimmers-jackson/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/swimmers-jackson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swimmers Jackson - Now Is All</title>
-      <link>https://michealkeating.xyz/production/nowisall/</link>
+      <link>http://localhost:1313/production/nowisall/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/production/nowisall/</guid>
+      <guid>http://localhost:1313/production/nowisall/</guid>
       <description>Production, Mix, Guitar, Violin, Additional Instrumentation&#xA;Hear it on Bandcamp&#xA;LP by Dublin-born London-based singer-songwriter Swimmers Jackson</description>
     </item>
   </channel>

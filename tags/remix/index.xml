@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remix on Mícheál Keating / Archive</title>
-    <link>https://michealkeating.xyz/tags/remix/</link>
+    <link>http://localhost:1313/tags/remix/</link>
     <description>Recent content in Remix on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2019 14:52:58 +0100</lastBuildDate>
-    <atom:link href="https://michealkeating.xyz/tags/remix/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/remix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Soda Blonde - Swimming Through the Night (mickykiiatein Remix)</title>
-      <link>https://michealkeating.xyz/music/swimming/</link>
+      <link>http://localhost:1313/music/swimming/</link>
       <pubDate>Tue, 15 Oct 2019 14:52:58 +0100</pubDate>
-      <guid>https://michealkeating.xyz/music/swimming/</guid>
+      <guid>http://localhost:1313/music/swimming/</guid>
       <description>Remix&#xA;Hear it on Spotify&#xA;A dark, wonky remix of Soda Blonde&amp;rsquo;s track &amp;lsquo;Swimming Through the Night&amp;rsquo;</description>
     </item>
     <item>
       <title>Soda Blonde - Swimming Through the Night (mickykiiatein Remix)</title>
-      <link>https://michealkeating.xyz/production/swimming/</link>
+      <link>http://localhost:1313/production/swimming/</link>
       <pubDate>Tue, 15 Oct 2019 14:52:58 +0100</pubDate>
-      <guid>https://michealkeating.xyz/production/swimming/</guid>
+      <guid>http://localhost:1313/production/swimming/</guid>
       <description>Remix&#xA;Hear it on Bandcamp&#xA;A dark, wonky remix of Soda Blonde&amp;rsquo;s track &amp;lsquo;Swimming Through the Night&amp;rsquo;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leila Jane on Mícheál Keating / Archive</title>
-    <link>https://michealkeating.xyz/tags/leila-jane/</link>
+    <link>http://localhost:1313/tags/leila-jane/</link>
     <description>Recent content in Leila Jane on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://michealkeating.xyz/tags/leila-jane/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/leila-jane/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leila Jane - Revolve Evolve</title>
-      <link>https://michealkeating.xyz/production/revolveevolve/</link>
+      <link>http://localhost:1313/production/revolveevolve/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://michealkeating.xyz/production/revolveevolve/</guid>
+      <guid>http://localhost:1313/production/revolveevolve/</guid>
       <description>Production, Mix, Synthesizers, Guitars, Additional Instrumentation (except track 1)&#xA;Hear it on Bandcamp&#xA;EP by Dublin based Alt Pop singer-songwriter Leila Jane</description>
     </item>
   </channel>

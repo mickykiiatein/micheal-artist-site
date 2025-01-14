@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vocal Ensemble on Mícheál Keating / Archive</title>
-    <link>https://michealkeating.xyz/tags/vocal-ensemble/</link>
+    <link>http://localhost:1313/tags/vocal-ensemble/</link>
     <description>Recent content in Vocal Ensemble on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Nov 2023 14:53:54 +0100</lastBuildDate>
-    <atom:link href="https://michealkeating.xyz/tags/vocal-ensemble/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vocal-ensemble/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amanda Feery - we could be diving for pearls</title>
-      <link>https://michealkeating.xyz/music/wecouldbedivingforpearls/</link>
+      <link>http://localhost:1313/music/wecouldbedivingforpearls/</link>
       <pubDate>Fri, 03 Nov 2023 14:53:54 +0100</pubDate>
-      <guid>https://michealkeating.xyz/music/wecouldbedivingforpearls/</guid>
+      <guid>http://localhost:1313/music/wecouldbedivingforpearls/</guid>
       <description>Member of Vocal Ensemble, Vocal Improvisation&#xA;Musical Composition for Vocal Ensemble and Electronics&#xA;&amp;lsquo;we could be diving for pearls&amp;rsquo; is a piece for vocal ensemble and electronics by composer Amanda Feery with text by Declan Synnott, commissioned by Gleo Festival, Limerick, November 2023. I was part of the vocal ensemble that interpreted and performed the improvisatory score, with Amanda Feery, Katie Fitzpatrick and Aoife Ní Raghallaigh.</description>
     </item>
   </channel>
