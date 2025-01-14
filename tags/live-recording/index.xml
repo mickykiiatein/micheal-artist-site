@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Live Recording on Mícheál Keating / Archive</title>
-    <link>http://localhost:1313/tags/live-recording/</link>
+    <link>https://michealkeating.xyz/tags/live-recording/</link>
     <description>Recent content in Live Recording on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/live-recording/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michealkeating.xyz/tags/live-recording/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Piquant - BYOL Sessions</title>
-      <link>http://localhost:1313/production/byol/</link>
+      <link>https://michealkeating.xyz/production/byol/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/production/byol/</guid>
+      <guid>https://michealkeating.xyz/production/byol/</guid>
       <description>Sound Recording, Mix, Live Sound (2020-present)&#xA;Watch here&#xA;A lunchtime concert series hosted by Piquant Media, platforming a diverse array of Irish musicians in various venues in Limerick city. I handle live sound, sound recording, and post-production sound mixing/mastering for the project.&#xA;Through this project I have worked with Princ€ss, Mohammed Syfkhan, Baptist Goth (pictured), The Mary Wallopers, Poor Creature, Naive Ted, Maija Sofia, Hazey Haze + Citrus Fresh, I Dreamed I Dream, and His Father&amp;rsquo;s Voice.</description>
     </item>
   </channel>

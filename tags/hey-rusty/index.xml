@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hey Rusty on Mícheál Keating / Archive</title>
-    <link>http://localhost:1313/tags/hey-rusty/</link>
+    <link>https://michealkeating.xyz/tags/hey-rusty/</link>
     <description>Recent content in Hey Rusty on Mícheál Keating / Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hey-rusty/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michealkeating.xyz/tags/hey-rusty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hey Rusty - Anorak</title>
-      <link>http://localhost:1313/production/anorak/</link>
+      <link>https://michealkeating.xyz/production/anorak/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/production/anorak/</guid>
+      <guid>https://michealkeating.xyz/production/anorak/</guid>
       <description>Production, Mix, Additional Instrumentation&#xA;Hear it on Bandcamp&#xA;Debut LP by Limerick singer-songwriter Hey Rusty</description>
     </item>
     <item>
       <title>Hey Rusty - All Night Daylight/Since We Were Strangers</title>
-      <link>http://localhost:1313/production/daylight/</link>
+      <link>https://michealkeating.xyz/production/daylight/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/production/daylight/</guid>
+      <guid>https://michealkeating.xyz/production/daylight/</guid>
       <description>Production, Mix, String Arranging&#xA;Hear it on Bandcamp&#xA;EP by Limerick singer-songwriter Hey Rusty</description>
     </item>
     <item>
       <title>Hey Rusty - Lady&#39;s Lane</title>
-      <link>http://localhost:1313/production/ladyslane/</link>
+      <link>https://michealkeating.xyz/production/ladyslane/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/production/ladyslane/</guid>
+      <guid>https://michealkeating.xyz/production/ladyslane/</guid>
       <description>Mastering&#xA;Hear it on Bandcamp&#xA;Debut EP by Limerick singer-songwriter Hey Rusty</description>
     </item>
   </channel>
