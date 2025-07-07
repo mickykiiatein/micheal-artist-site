@@ -2,17 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://michealkeating.xyz/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <loc>https://michealkeating.xyz/about/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://michealkeating.xyz/music/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <loc>https://michealkeating.xyz/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/production/sealegs/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://michealkeating.xyz/production/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/music/</loc>
+    <lastmod>2025-04-23T19:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/music/peistfive/</loc>
+    <lastmod>2025-04-23T19:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/music/peistfour/</loc>
+    <lastmod>2025-03-09T19:16:56+01:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/tags/laura-duff/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://michealkeating.xyz/about/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <loc>https://michealkeating.xyz/music/sealegs/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/tags/mixing/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/tags/production/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/tags/recording-artist/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/tags/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://michealkeating.xyz/art/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
@@ -35,9 +62,6 @@
     <loc>https://michealkeating.xyz/tags/sound/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://michealkeating.xyz/tags/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://michealkeating.xyz/tags/text/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -46,15 +70,6 @@
   </url><url>
     <loc>https://michealkeating.xyz/music/houseofchanges/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://michealkeating.xyz/tags/mixing/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://michealkeating.xyz/tags/production/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://michealkeating.xyz/tags/recording-artist/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://michealkeating.xyz/tags/the-low-field/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
@@ -200,16 +215,7 @@
     <loc>https://michealkeating.xyz/production/lettinggo/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://michealkeating.xyz/tags/music-video/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://michealkeating.xyz/music-videos/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://michealkeating.xyz/tags/post-punk-podge/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://michealkeating.xyz/music-videos/gentrification/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://michealkeating.xyz/art/interspecies/</loc>
@@ -236,17 +242,17 @@
     <loc>https://michealkeating.xyz/production/anorak/</loc>
     <lastmod>2021-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://michealkeating.xyz/tags/sorbet/</loc>
-    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://michealkeating.xyz/music-videos/purplemv/</loc>
-    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://michealkeating.xyz/tags/mickykiiatein/</loc>
+    <lastmod>2021-06-04T14:53:17+01:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/tags/sorbet/</loc>
     <lastmod>2021-06-04T14:53:17+01:00</lastmod>
   </url><url>
     <loc>https://michealkeating.xyz/music/bornpurple/</loc>
     <lastmod>2021-06-04T14:53:17+01:00</lastmod>
+  </url><url>
+    <loc>https://michealkeating.xyz/tags/post-punk-podge/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://michealkeating.xyz/production/euphoric/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
@@ -281,9 +287,6 @@
     <loc>https://michealkeating.xyz/music/unseparate/</loc>
     <lastmod>2020-05-17T14:54:06+01:00</lastmod>
   </url><url>
-    <loc>https://michealkeating.xyz/music-videos/trapped/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://michealkeating.xyz/production/daylight/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -292,9 +295,6 @@
   </url><url>
     <loc>https://michealkeating.xyz/production/realconnection/</loc>
     <lastmod>2020-03-27T14:30:33+01:00</lastmod>
-  </url><url>
-    <loc>https://michealkeating.xyz/music-videos/close/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://michealkeating.xyz/art/farm/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
